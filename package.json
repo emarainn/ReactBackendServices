@@ -2,7 +2,7 @@
   "name": "medals-react-radix",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://emarainn.github.io/Mod-10-A",
+  "homepage": "https://emarainn.github.io/ReactBackendServices",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
